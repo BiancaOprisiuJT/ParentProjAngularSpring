@@ -1,59 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.baeldung.AppTest" time="0.029" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.baeldung.AppTest" time="0.023" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="T:\50_WORKSPACES\parent-projectNew\spring\target\test-classes;T:\50_WORKSPACES\parent-projectNew\spring\target\classes;C:\Users\pascav\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\pascav\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="T:\50_WORKSPACES\ParentProjAngularSpring\spring\target\test-classes;T:\50_WORKSPACES\ParentProjAngularSpring\spring\target\classes;T:\40_MVN_REPO\junit\junit\4.11\junit-4.11.jar;T:\40_MVN_REPO\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
-    <property name="user.timezone" value="Europe/Bucharest"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
     <property name="os.name" value="Windows 11"/>
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="T:\20_TOOLS\jdks\bin"/>
-    <property name="sun.java.command" value="C:\Users\pascav\AppData\Local\Temp\surefire16509013818153798898\surefirebooter7324549341084643422.jar C:\Users\pascav\AppData\Local\Temp\surefire16509013818153798898 2023-07-19T15-29-43_695-jvmRun1 surefire14560081000926344956tmp surefire_112958492049498672658tmp"/>
+    <property name="sun.java.command" value="C:\Users\oprisb\AppData\Local\Temp\surefire15483015454160272231\surefirebooter4575891758111245863.jar C:\Users\oprisb\AppData\Local\Temp\surefire15483015454160272231 2023-07-19T14-52-59_670-jvmRun1 surefire15045762553190302087tmp surefire_010476062440828719950tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="T:\50_WORKSPACES\parent-projectNew\spring\target\test-classes;T:\50_WORKSPACES\parent-projectNew\spring\target\classes;C:\Users\pascav\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\pascav\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="T:\50_WORKSPACES\ParentProjAngularSpring\spring\target\test-classes;T:\50_WORKSPACES\ParentProjAngularSpring\spring\target\classes;T:\40_MVN_REPO\junit\junit\4.11\junit-4.11.jar;T:\40_MVN_REPO\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="user.home" value="C:\Users\pascav"/>
+    <property name="user.home" value="C:\Users\oprisb"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.version.date" value="2022-01-18"/>
     <property name="java.home" value="T:\20_TOOLS\jdks"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="T:\50_WORKSPACES\parent-projectNew\spring"/>
+    <property name="basedir" value="T:\50_WORKSPACES\ParentProjAngularSpring\spring"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\pascav\AppData\Local\Temp\surefire16509013818153798898\surefirebooter7324549341084643422.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\oprisb\AppData\Local\Temp\surefire15483015454160272231\surefirebooter4575891758111245863.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.2+8-86"/>
-    <property name="user.name" value="pascav"/>
+    <property name="user.name" value="oprisb"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="10.0"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="localRepository" value="C:\Users\pascav\.m2\repository"/>
+    <property name="localRepository" value="T:\40_MVN_REPO"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
-    <property name="java.io.tmpdir" value="C:\Users\pascav\AppData\Local\Temp\"/>
+    <property name="java.io.tmpdir" value="C:\Users\oprisb\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2023.1.3"/>
     <property name="java.version" value="17.0.2"/>
-    <property name="user.dir" value="T:\50_WORKSPACES\parent-projectNew\spring"/>
+    <property name="user.dir" value="T:\50_WORKSPACES\ParentProjAngularSpring\spring"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="T:\20_TOOLS\jdks\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\dotnet\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;T:\20_TOOLS\jdks;T:\20_TOOLS\jdks\bin;T:\20_TOOLS\maven\bin;T:\20_TOOLS\git\cmd;T:\20_TOOLS\idea;T:\20_TOOLS\idea\bin;T:\20_TOOLS\nodejs;C:\Users\pascav\AppData\Roaming\npm;;."/>
+    <property name="java.library.path" value="T:\20_TOOLS\jdks\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\dotnet\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;T:\20_TOOLS\jdks\bin;T:\20_TOOLS\maven\bin;T:\20_TOOLS\git\cmd;T:\20_TOOLS\idea;T:\20_TOOLS\idea\bin;T:\20_TOOLS\nodejs;C:\Users\oprisb\AppData\Roaming\npm;T:\20_TOOLS\jdks;;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="17.0.2+8-86"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="T:\40_MVN_REPO"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
   <testcase name="shouldAnswerWithTrue" classname="com.baeldung.AppTest" time="0.001"/>
